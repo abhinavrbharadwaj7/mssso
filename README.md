@@ -113,9 +113,4 @@ Email: abhinavrbharadwaj86@gmail.com
 
 ---
 
-### **How to Use This README**
-1. Save this content in a file named `README.md` in the root of your project.
-2. Commit the README
-   git add README.md
-   git commit -m "Added detailed README"
    git push
