@@ -32,18 +32,12 @@ Ensure you have the following installed on your system:
    cd my-poc-frontend
 Install Dependencies:
 
-bash
-Copy code
 npm install
 Start the Development Server:
 
-bash
-Copy code
 npm start
 Access the Frontend: Open your browser and go to:
 
-arduino
-Copy code
 http://localhost:3000
 📁 Key Frontend Files:
 src/: Main source code for the React application.
@@ -51,13 +45,11 @@ public/: Static assets like HTML and images.
 🛠️ Backend Setup
 Navigate to the Backend Directory:
 
-bash
-Copy code
+
 cd my-poc-backend
 Install Dependencies:
 
-bash
-Copy code
+e
 npm install
 Setup Environment Variables: Create a .env file in the my-poc-backend directory with the following content:
 
@@ -72,8 +64,7 @@ Copy code
 npm run dev
 Access the Backend API: The backend server will run at:
 
-arduino
-Copy code
+
 http://localhost:4000
 📁 Key Backend Files:
 src/: Contains routes, controllers, and services.
@@ -98,20 +89,16 @@ Ensure MongoDB is running locally or configure a remote database URL in the back
 🛠️ How to Contribute
 Fork this repository.
 Clone your forked copy:
-bash
-Copy code
+
 git clone https://github.com/<your-username>/mssso.git
 Create a new branch for your feature:
-bash
-Copy code
+
 git checkout -b feature-name
 Commit your changes:
-bash
-Copy code
+
 git commit -m "Added feature"
 Push to your branch:
-bash
-Copy code
+
 git push origin feature-name
 Open a Pull Request on the original repository.
 📃 License
@@ -121,16 +108,14 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For questions or support, feel free to reach out:
 
 GitHub: abhinavrbharadwaj7
-Email: YourEmail@example.com (Replace with your email)
-yaml
-Copy code
+Email: abhinavrbharadwaj86@gmail.com
+
 
 ---
 
 ### **How to Use This README**
 1. Save this content in a file named `README.md` in the root of your project.
-2. Commit the README:
-   ```bash
+2. Commit the README
    git add README.md
    git commit -m "Added detailed README"
    git push
